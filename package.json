@@ -1,0 +1,25 @@
+{
+  "name": "arravo-notification",
+  "version": "1.0.0",
+  "description": "An Arravo Notification Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moyowalker/Arravo-notification.git"
+  },
+  "keywords": [
+    "React",
+    "MongoDB",
+    "Mongoose",
+    "Firebase"
+  ],
+  "author": "Moyosore Ajayi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Moyowalker/Arravo-notification/issues"
+  },
+  "homepage": "https://github.com/Moyowalker/Arravo-notification#readme"
+}
